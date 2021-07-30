@@ -1,6 +1,6 @@
-transformers
 streamlit
 bs4
-requests
 html5lib
+transformers
+requests
 torch
