@@ -54,14 +54,11 @@ text would essentially be the group of documents that have the highest concentra
 closest to the asked question.
 
 ## 1.3 Scope of project
-A. Choses the top words present in the document by using workcloud & word-frequency plot.
-
-B. Once the relevant documents have been retrieved, the extractive question answering
-   model would generate the answer for the question.
-   
-C. The entire model can be deployed in AWS/GCP/Azure.
-
-D. The dual-model pipeline is accessible via a web application(Streamlit) for demo
+* Choses the top words present in the document by using workcloud & word-frequency plot.
+* Once the relevant documents have been retrieved, the extractive question answering
+   model would generate the answer for the question. 
+* The entire model can be deployed in AWS/GCP/Azure.
+* The dual-model pipeline is accessible via a web application(Streamlit) for demo
    purpose.
 
 
